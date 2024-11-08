@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="lively">
+	<schema id="com.mangoman.lively" path="/com/mangoman/lively/">
+	</schema>
+</schemalist>

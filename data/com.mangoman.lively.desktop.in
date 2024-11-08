@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=lively
+Exec=lively
+Icon=com.mangoman.lively
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

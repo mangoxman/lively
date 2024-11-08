@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/com.mangoman.lively.desktop.in
+data/com.mangoman.lively.metainfo.xml.in
+data/com.mangoman.lively.gschema.xml
+src/main.c
+src/lively-window.c
+src/lively-window.ui
